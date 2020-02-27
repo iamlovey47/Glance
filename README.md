@@ -1,2 +1,2 @@
 # watch_tryon
-3d watch try on app using augmented reality in Unity.
+3d try on wrist watch app using augmented reality in Unity.
